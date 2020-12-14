@@ -1,6 +1,5 @@
 import requests;
 from bs4 import BeautifulSoup;
-import re;
 
 def scrapeNews():
     #URL of the web page to be scraped for content.
